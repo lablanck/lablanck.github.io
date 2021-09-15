@@ -1,1 +1,28 @@
-theme: jekyll-theme-architect
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>RHS Daily Joke Sign</title>
+  <meta name="description" content="JOKES">
+  <meta name="author" content="Hayden Blair">
+  <link rel="stylesheet" href="css/style.css?v=1.0">
+</head>
+
+<body>
+  <script src="js/scripts.js"></script>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+
+  <center>
+  <h1>Did you hear about the actor who fell through the floorboards?</h1>
+  <br>
+  <br>
+  <h2>He was just going through a stage.</h2>
+  
+  </center>
+</body>
+</html>
