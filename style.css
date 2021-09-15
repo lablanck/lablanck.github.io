@@ -1,0 +1,11 @@
+@font-face {
+  font-family: comic;
+  src: url(comic.ttf);
+}
+
+body {
+  font-family: comic;
+  font-size: 40px;
+  color: white;
+  background-color: #18453B;
+}
