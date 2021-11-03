@@ -8,4 +8,7 @@ body {
   font-size: 45px;
   color: white;
   background-image: url('waldo.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
