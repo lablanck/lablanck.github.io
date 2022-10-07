@@ -6,6 +6,5 @@
 body {
   font-family: comic;
   font-size: 43px;
-  background-image: "/Images/halloween.jpg";
-
+  background-image: url("Images/halloween.jpg");
 }
