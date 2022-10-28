@@ -8,4 +8,10 @@ body {
   font-size: 43px;
   color: white;
   background-image: url("/Images/uofmstate.jpg");
+  height: 100%;
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
 }
