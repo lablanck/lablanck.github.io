@@ -9,5 +9,6 @@ body {
   
   background-image: url("/Images/mikewazowski.jpg");
   background-repeat: no-repeat;
+  background-size: cover;
  
 }
