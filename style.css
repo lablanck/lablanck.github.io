@@ -8,5 +8,6 @@ body {
   font-size: 40px;
   
   background-image: url("/Images/mikewazowski.jpg");
+  background-repeat: no-repeat;
  
 }
